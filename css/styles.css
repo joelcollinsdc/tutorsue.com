@@ -1,0 +1,17 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.topic {
+  cursor: pointer;
+  text-decoration: none;
+  border-bottom: 1px dashed;
+}
+
+.topic:hover, .topic:active {
+  text-decoration: none;
+}
